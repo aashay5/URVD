@@ -4,6 +4,10 @@
     padding: 0%;
     font-family: 'Roboto', sans-serif;
     }
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
     .navbar {
         background: #292929;
         height: 80px;
